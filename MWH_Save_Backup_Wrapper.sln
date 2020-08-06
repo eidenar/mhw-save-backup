@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHW_Save_Backup_Wrapper", "MWH_Save_Backup_Wrapper\MHW_Save_Backup_Wrapper.csproj", "{23391368-69AA-4EC8-899D-CC525891C846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23391368-69AA-4EC8-899D-CC525891C846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23391368-69AA-4EC8-899D-CC525891C846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23391368-69AA-4EC8-899D-CC525891C846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23391368-69AA-4EC8-899D-CC525891C846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B78A39F-B5D5-4922-96F1-3C128EB27CD1}
+	EndGlobalSection
+EndGlobal

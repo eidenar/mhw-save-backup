@@ -1,0 +1,7 @@
+C:\Users\EiDeN\source\repos\MWH_Save_Backup_Wrapper\MWH_Save_Backup_Wrapper\obj\Release\MHW_Save_Backup_Wrapper.csprojAssemblyReference.cache
+C:\Users\EiDeN\source\repos\MWH_Save_Backup_Wrapper\MWH_Save_Backup_Wrapper\obj\Release\MHW_Save_Backup_Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\EiDeN\source\repos\MWH_Save_Backup_Wrapper\MWH_Save_Backup_Wrapper\obj\Release\MWH_Save_Backup_Wrapper.exe
+C:\Users\EiDeN\source\repos\MWH_Save_Backup_Wrapper\MWH_Save_Backup_Wrapper\obj\Release\MWH_Save_Backup_Wrapper.pdb
+C:\Users\EiDeN\source\repos\MWH_Save_Backup_Wrapper\MWH_Save_Backup_Wrapper\bin\Release\MWH_Save_Backup_Wrapper.exe.config
+C:\Users\EiDeN\source\repos\MWH_Save_Backup_Wrapper\MWH_Save_Backup_Wrapper\bin\Release\MWH_Save_Backup_Wrapper.exe
+C:\Users\EiDeN\source\repos\MWH_Save_Backup_Wrapper\MWH_Save_Backup_Wrapper\bin\Release\MWH_Save_Backup_Wrapper.pdb
